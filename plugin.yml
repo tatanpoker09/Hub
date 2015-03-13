@@ -1,0 +1,19 @@
+name: Hub
+main: com.aletheia.mc.HubPlugin.HubPlugin
+version: 1.0
+commands:
+  msg:
+    description: msg
+    usage: /msg
+  r:
+    description: msg
+    usage: /r
+  hub:
+    description: msg
+    usage: /hub
+  setspawn:
+    description: msg
+    usage: /usage
+  mute:
+    description: msg
+    usage: /mute

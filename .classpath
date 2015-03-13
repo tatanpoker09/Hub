@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/tatanpoker09/Desktop/Important Everything Stored in Here/TatanUtils Server/plugins/!disable/BarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tatanpoker09/Desktop/Important Everything Stored in Here/TatanUtils Server/plugins/PermissionsEx-1.22.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tatanpoker09/Desktop/Important Everything Stored in Here/NetworkCoins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tatanpoker09/Desktop/Important Everything Stored in Here/Fe.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/spigot1.7.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
